@@ -1,3 +1,5 @@
 document.getElementById('btn_enviar').addEventListener('click',(e)=>{
-    e.preventDefault()
+
+    window.location.href="https://google.com"
+    // e.preventDefault()
 });
